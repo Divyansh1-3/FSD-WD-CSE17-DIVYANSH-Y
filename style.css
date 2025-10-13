@@ -1,6 +1,10 @@
-#para1{
-      color:red;
+h1{
+      text-align: center;
+}
+.para1{
+      color:rgb(0, 128, 126);
       font-size: 60px;
+      text-align: center;
 }
 #para2{
       color:aqua;
