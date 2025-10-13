@@ -2,13 +2,18 @@ h1{
       text-align: center;
 }
 .para1{
-      color:rgb(0, 128, 126);
+      color:green;
       font-size: 60px;
       text-align: center;
+      font-weight:400;
 }
 #para2{
       color:aqua;
+      text-align: justify;
+      text-align: center;
+      font-weight: 600;
 }
 #para3{
       background-color: blueviolet;
+      
 }
