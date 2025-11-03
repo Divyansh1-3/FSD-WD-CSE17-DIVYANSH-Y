@@ -12,6 +12,6 @@ table:hover{
       transition: 0.3s ease;
 }
 table{
-      align-content:center;
       color: slateblue;
+      margin-top: 75px;
 }
